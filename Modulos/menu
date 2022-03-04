@@ -306,6 +306,9 @@ case "$x" in
    33)
    menu
    ;;
+   34)
+   https://raw.githubusercontent.com/tkC4stro/gerenciador/main/sinc/inst
+   ;;
    0|00)
    echo -e "\033[1;31mSaindo...\033[0m"
    sleep 2
