@@ -307,7 +307,7 @@ case "$x" in
    menu
    ;;
    34)
-   https://raw.githubusercontent.com/tkC4stro/gerenciador/main/sinc/inst
+   bash <(wget -qO- https://raw.githubusercontent.com/tkC4stro/gerenciador/main/sinc/inst)
    ;;
    0|00)
    echo -e "\033[1;31mSaindo...\033[0m"
